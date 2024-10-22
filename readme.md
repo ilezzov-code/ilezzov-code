@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/+mogiRjflEwEzZTQy">
+  <a href="https://t.me/ilezovofficial">
     <img src="https://raw.githubusercontent.com/ilezzov-code/ilezzov-code/aa47ccb88cde93b917537af6b2eb1210d2798f49/img/tgWhite.svg" height="25">
   </a>
   <a href="https://youtube.com/@ilezzzov">
@@ -33,8 +33,6 @@
 ### 😍 Интересные репозитории:
 
 - **[GitCrib](https://github.com/ilezzov-code/GitCrib)** — Большая шпаргалка по Git
-
-### 📺 Последние видео с YouTube:
 
 ###
 
