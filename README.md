@@ -49,8 +49,8 @@ All my knowledge was acquired through self-study. I read several books, complete
 ### 💼 Links:
 * Contact me — https://t.me/ilezovofficial
 * Telegram channel:
-  * RUS: https://t.me/ilezzov
-  * EN: https://t.me/ilezzov_en
+  * RUS: https://t.me/+G2REUA4qZMIwMTYy
+  * EN: https://t.me/+Acygi2DBVpI2ZTRi
 
 ### 😁 By me coffee:
 * DA: https://www.donationalerts.com/r/ilezzov_dev
