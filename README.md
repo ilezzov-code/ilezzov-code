@@ -34,7 +34,7 @@ All my knowledge was acquired through self-study. I read several books, complete
 ### 😍 Interesting Repositories:
 
 - **[CoolLobby](https://github.com/ilezzov-code/CoolLobby)** — Make your Lobby time more exciting / Minecraft (Paper) plugin
-- **[GitCrib](https://github.com/ilezzov-code/GitCrib)** — A big Git cheat sheet
+- **[NamedChest](https://github.com/ilezzov-code/NamedChest)** — Name Your Chest / Minecraft (Paper) plugin
 
 ### 👾 Technologies:
 
